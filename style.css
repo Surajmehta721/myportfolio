@@ -1,0 +1,118 @@
+/* IMAGE DESIGN */
+#image{
+    background-color: rgba(255, 255, 255, 0.493);
+    height: 400px;
+    width: 70%;
+    margin-left: 15%;
+    border: 3px solid white;
+    border-radius: 20px;
+    display: flex;
+}
+img
+{
+margin-top: 70px;
+margin-left: 80px;
+border: 4px solid rgb(255, 255, 255);
+border-radius: 50%;
+}
+#intro_place
+{
+    margin-left: 20%;
+    margin-top: 130px;
+}
+
+#intro{
+    font-size: 40px;
+    font-family:sans-serif;
+    text-transform: capitalize;
+}
+#intro1{
+    font-size: 20px;
+    font-family:sans-serif;
+    text-transform: capitalize;
+}
+big
+{
+ color: rgb(3, 3, 106);
+
+}
+body{
+    background-image: url("bg.jpg");
+    background-size: 100% 100%;
+}
+
+/* #A1
+{
+    background-color: rgba(228, 151, 151, 0.413);
+    width: 500PX;
+    left: 300px;
+    position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+            height: 200px;
+
+} */
+pre{
+    font-size:12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    text-transform:capitalize;
+}
+#p1{
+    text-decoration: none;
+}
+.skl{
+    background-color: aquamarine;
+    height: 50px;
+    width: 200px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 50px;
+    margin-top: 25px;
+}
+/* personal detailes */
+#pd{
+    font-family: 'Times New Roman', Times, serif;
+}
+#outer{
+    text-transform: uppercase;
+    font-size: 25px;
+}
+#inner{
+    font-size: 10px;
+}
+
+/* HEADER */
+#hdr{
+    background-color: rgb(2, 2, 91);
+    height: 60px;
+     padding-left: 12px;
+}
+#h1{
+    padding-top: 10px;
+    height: 50px;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+    text-transform: capitalize;
+    margin-right: 120px;
+   
+    
+}
+#ptf{
+    color: aliceblue;
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: capitalize;
+    letter-spacing: 10px;
+    margin-left: 50px;
+}
+b{
+    font-size: 20px;
+    margin-right: 590px;
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
