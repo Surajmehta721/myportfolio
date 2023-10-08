@@ -60,8 +60,9 @@ pre{
     font-weight: 300;
     text-transform:capitalize;
 }
-#p1{
+.p1{
     text-decoration: none;
+    color: black;
 }
 .skl{
     background-color: aquamarine;
@@ -101,9 +102,6 @@ a{
     margin-right: 120px;
    
     
-}
-#i1{color: black;
-
 }
 #ptf{
     color: aliceblue;
